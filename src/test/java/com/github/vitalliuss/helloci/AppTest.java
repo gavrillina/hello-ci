@@ -1,5 +1,5 @@
 package com.github.vitalliuss.helloci;
-
+import
 
 import static org.junit.Assert.*;
 import org.junit.Ignore;
